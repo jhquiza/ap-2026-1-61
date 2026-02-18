@@ -6,7 +6,7 @@ Este es el repositorio oficial del curso de Análisis Predictivo de la Universid
 
 # Guía de Trabajo con Git: Fork, Upstream y Entregas
 
-Para el desarrollo de las actividades de la clase, utilizaremos un flujo de trabajo profesional. Sigan estos pasos para configurar su entorno:
+Para el desarrollo de las actividades de la clase, utilizaremos un flujo de trabajo profesional. Siga estos pasos para configurar su entorno:
 
 ### 1. Crear su propia copia (Fork)
 
@@ -14,7 +14,7 @@ No trabajará directamente sobre el repositorio del profesor. Cada uno debe tene
 
 1. Entre al enlace del repositorio de la clase: https://github.com/jhquiza/ap-2026-1-61.
 2. En la esquina superior derecha, haga clic en el botón **Fork**.
-3. Asegúrese de que el "Owner" sea su usuario de GitHub y hagan clic en **Create fork**.
+3. Asegúrese de que el "Owner" sea su usuario de GitHub y haga clic en **Create fork**.
 
 ### 2. Clonar su Fork localmente
 
